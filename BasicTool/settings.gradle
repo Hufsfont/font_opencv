@@ -1,3 +1,0 @@
-rootProject.name='BasicTool'
-include ':app'
-include ':app:com.github.jypdev:maskcropview:1.1.1'
